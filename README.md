@@ -10,7 +10,7 @@ I built it from scratch, designing it on paper, part by part, module by module, 
 
 And the instrument sounds like this:
 
-[YouTube: SIRENOTRON - my Hand-crafted Analog Siren Synthesizer](https://www.youtube.com/watch?v=M9Uq5YbRuAI)
+[YouTube: SIRENOTRON - my Hand-crafted Analog Siren Synthesizer](https://youtu.be/M3CLcUoV7Gw)
 
 The Sirenotron consists of a single square-wave oscillator based on the 555 timer and an LFO (low-frequency oscillator) based on an LM358. The LFO controls the pitch of the oscillator and has two modes: triangle and square. Additionally, there is a switch that enables Acid mode for the square-wave LFO. Technically, Acid mode is implemented by adding a single capacitor, but musically it gives a nice TB-303-like sound caused by voltage jumps on the edges of the square.
 
