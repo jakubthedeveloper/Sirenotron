@@ -48,3 +48,5 @@ Here are some images from the building process:
 ![image](timelapse/13.jpg)
 ![image](timelapse/14.jpg)
 ![image](timelapse/15.jpg)
+![image](timelapse/16.jpg)
+
