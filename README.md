@@ -8,6 +8,10 @@ I built it from scratch, designing it on paper, part by part, module by module, 
 
 ![image](schematic.jpg)
 
+Digitalized version:
+
+![image](Sirenotron-Schematic-EasyEda.png)
+
 And the instrument sounds like this:
 
 [YouTube: SIRENOTRON - my Hand-crafted Analog Siren Synthesizer](https://youtu.be/M3CLcUoV7Gw)
