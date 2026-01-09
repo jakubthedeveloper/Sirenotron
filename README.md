@@ -6,11 +6,11 @@ This is documentation for my electronic project, an analog siren synthesizer "Si
 
 I built it from scratch, designing it on paper, part by part, module by module, through multiple iterations of design, soldering, part replacement, voltage checks, and audio testing. Finally, the schematic looks like this:
 
-![image](schematic.jpg)
+<img src="schematic.jpg" width="500" />
 
 Digitalized version:
 
-![image](Sirenotron-Schematic-EasyEda.png)
+<img src="Sirenotron-Schematic-EasyEda.png" width="500" />
 
 And the instrument sounds like this:
 
@@ -37,20 +37,19 @@ Power: 9V DC, center-negative polarity (minus on the tip).
 
 Here are some images from the building process:
 
-![image](timelapse/1.jpg)
-![image](timelapse/2.jpg)
-![image](timelapse/3.jpg)
-![image](timelapse/4.jpg)
-![image](timelapse/5.jpg)
-![image](timelapse/6.jpg)
-![image](timelapse/7.jpg)
-![image](timelapse/8.jpg)
-![image](timelapse/9.jpg)
-![image](timelapse/10.jpg)
-![image](timelapse/11.jpg)
-![image](timelapse/12.jpg)
-![image](timelapse/13.jpg)
-![image](timelapse/14.jpg)
-![image](timelapse/15.jpg)
-![image](timelapse/16.jpg)
-
+<img src="timelapse/1.jpg" width="500" />
+<img src="timelapse/2.jpg" width="500" />
+<img src="timelapse/3.jpg" width="500" />
+<img src="timelapse/4.jpg" width="500" />
+<img src="timelapse/5.jpg" width="500" />
+<img src="timelapse/6.jpg" width="500" />
+<img src="timelapse/7.jpg" width="500" />
+<img src="timelapse/8.jpg" width="500" />
+<img src="timelapse/9.jpg" width="500" />
+<img src="timelapse/10.jpg" width="500" />
+<img src="timelapse/11.jpg" width="500" />
+<img src="timelapse/12.jpg" width="500" />
+<img src="timelapse/13.jpg" width="500" />
+<img src="timelapse/14.jpg" width="500" />
+<img src="timelapse/15.jpg" width="500" />
+<img src="timelapse/16.jpg" width="500" />
