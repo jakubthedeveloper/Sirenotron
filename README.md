@@ -6,18 +6,7 @@ This is documentation for my electronic project, an analog siren synthesizer "Si
 
 I built it from scratch, designing it on paper, part by part, module by module, through multiple iterations of design, soldering, part replacement, voltage checks, and audio testing. Finally, the schematic looks like this:
 
-<img src="schematic.jpg" width="500" />
-
-Digitalized version:
-
 <img src="Sirenotron-Schematic-EasyEda.png" width="500" />
-
----
-**NOTE**
-
-One element is missing on the schematic. 10nF capacitor from NE555 pin 2/6 to GND!
-
----
 
 And the instrument sounds like this:
 
