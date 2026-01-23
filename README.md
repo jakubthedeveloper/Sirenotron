@@ -12,6 +12,13 @@ Digitalized version:
 
 <img src="Sirenotron-Schematic-EasyEda.png" width="500" />
 
+---
+**NOTE**
+
+One element is missing on the schematic. 10nF capacitor from NE555 pin 2/6 to GND!
+
+---
+
 And the instrument sounds like this:
 
 [YouTube: SIRENOTRON - my Hand-crafted Analog Siren Synthesizer](https://youtu.be/M3CLcUoV7Gw)
