@@ -30,6 +30,9 @@ LEDs:
 
 Power: 9V DC, center-negative polarity (minus on the tip).
 
+To improve in the next versions:
+- Resistor to set max tone pot value
+- LED driven via transistor — do not connect directly to LFO node
 
 Here are some images from the building process:
 
