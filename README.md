@@ -1,8 +1,8 @@
-![image](plate.png)
+![image](plate.jpg)
 
 This is documentation for my electronic project, an analog siren synthesizer "Sirenotron".
 
-![image](photos/f4.jpg)
+![image](photos/front.jpg)
 
 I built it from scratch, designing it on paper, part by part, module by module, through multiple iterations of design, soldering, part replacement, voltage checks, and audio testing. Finally, the schematic looks like this:
 
@@ -23,6 +23,11 @@ Controls:
 - Volume
 - "Fire!" button to trigger the sound
 
+Connections:
+- 9V DC Power input
+- Main Output (Mono)
+- External trigger input (e.g. footswitch)
+
 LEDs:
 - Power on - an LED built into the "Fire!" button
 - LFO speed - green LED
@@ -30,17 +35,20 @@ LEDs:
 
 Power: 9V DC, center-negative polarity (minus on the tip).
 
-To improve in the next versions:
-- Resistor to set max tone pot value
-- LED driven via transistor — do not connect directly to LFO node
+Photo Gallery:
 
-Here are some images from the building process:
+### Front
+<img src="photos/front.jpg" width="500" />
 
-<img src="photos/f1.jpg" width="500" />
-<img src="photos/f2.jpg" width="500" />
-<img src="photos/f3.jpg" width="500" />
-<img src="photos/f4.jpg" width="500" />
-<img src="photos/f5.jpg" width="500" />
-<img src="photos/f6.jpg" width="500" />
-<img src="photos/f7.jpg" width="500" />
+### Inside
+<img src="photos/inside.jpg" width="500" />
+
+### Leds
+<img src="photos/leds.jpg" width="500" />
+
+### It loves delays :)
+<img src="photos/with_delay.jpg" width="500" />
+
+### For the benefit of history - first prototype
+<img src="photos/prototype.jpg" width="500" />
 
