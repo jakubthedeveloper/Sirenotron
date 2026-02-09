@@ -35,6 +35,11 @@ LEDs:
 
 Power: 9V DC, center-negative polarity (minus on the tip).
 
+Tips:
+
+- If you notice too many digital-sounding highs, add a 10nF capacitor between the tip and sleeve of the output jack.
+- If you're having problems with the LFO LED, for example, if it's not flashing, connect it through a transistor. On the other hand, an LED connected without a transistor can cause interesting distortions in the LFO signal.
+
 Photo Gallery:
 
 ### Front
