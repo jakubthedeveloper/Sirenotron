@@ -44,7 +44,10 @@ Power: 9V DC, center-negative polarity (minus on the tip).
 Tips:
 
 - If you notice too many digital-sounding highs, add a 10nF capacitor between the tip and sleeve of the output jack.
+- If you want to kill more of the high harmonics, add 10-22nf from the point between R5 and C3 to ground.
 - If you're having problems with the LFO LED, for example, if it's not flashing, connect it through a transistor. On the other hand, an LED connected without a transistor can cause interesting distortions in the LFO signal.
+- Use CMOS 555! Instead of the classic NE555, use TLC555 - the difference in audio quality is huge.
+- Replace the LFO capacitor (22uF) by something between 4.7 and 10 uF. With the 4.7uF you can talk to aliens on the high settings of the LFO speed.
 
 Photo Gallery:
 
