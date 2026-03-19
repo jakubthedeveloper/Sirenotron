@@ -8,15 +8,9 @@ I built it from scratch, designing it on paper, part by part, module by module, 
 
 <img src="Sirenotron-Schematic-EasyEda.png" width="500" />
 
-The instrument sounds like this:
+Demo video:
 
-[YouTube: SIRENOTRON - my Hand-crafted Analog Siren Synthesizer](https://youtu.be/M3CLcUoV7Gw)
-
-Jam session with Sirenotron:
-
-[YouTube: DIY Dub Jam - Analog Oscillations & Psychedelic Feedback](https://www.youtube.com/watch?v=CcE-FwkRtoU)
-
-
+[![Watch the video](https://img.youtube.com/vi/Uw65Me_CADU/0.jpg)](https://www.youtube.com/watch?v=Uw65Me_CADU)
 
 The Sirenotron consists of a single square-wave oscillator based on the 555 timer and an LFO (low-frequency oscillator) based on an LM358. The LFO controls the pitch of the oscillator and has two modes: triangle and square. Additionally, there is a switch that enables Acid mode for the square-wave LFO. Technically, Acid mode is implemented by adding a single capacitor, but musically it gives a nice TB-303-like sound caused by voltage jumps on the edges of the square.
 
